@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	background-color: red;
 }
 #logo {
 	height: 80px;
@@ -9,6 +10,7 @@ body {
 }
 h1 {
 	font-weight: 100;
+	color: white;
 }
 
 #container {
